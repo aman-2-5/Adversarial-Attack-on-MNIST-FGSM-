@@ -95,8 +95,7 @@ This generates:
 ### Original Image
 Model correctly predicts digit 9.
 
-![Original](<img width="640" height="480" alt="image" src="https://github.com/user-attachments/assets/b262cde0-aae0-4cc2-b57f-c9621c484f4b" />
-)
+![Original](screenshots/original.png)
 
 ---
 
@@ -104,16 +103,14 @@ Model correctly predicts digit 9.
 The same image with minimal perturbation.
 Model misclassifies digit 9 as digit 4.
 
-![Adversarial](<img width="640" height="480" alt="image" src="https://github.com/user-attachments/assets/cb660530-b2bb-4826-9206-27a25fe7c30a" />
-)
+![Adversarial](screenshots/adversarial.png)
 
 ---
 
 ### Perturbation Pattern
 Noise added using gradient direction.
 
-![Perturbation](<img width="640" height="480" alt="image" src="https://github.com/user-attachments/assets/825922af-9cf3-443f-92fc-286bc5faf667" />
-)
+![Perturbation](screenshots/perturbation.png)
 
 ---
 
